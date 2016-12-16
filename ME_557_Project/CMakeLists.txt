@@ -60,6 +60,8 @@ file(GLOB HCI557_Project_SRC
 	gl_common/Plane3D.cpp
 	gl_common/Texture.h
 	gl_common/Texture.cpp
+	gl_common/Box3D.h
+	gl_common/Box3D.cpp
 )
 
 set(HCI557_RES
